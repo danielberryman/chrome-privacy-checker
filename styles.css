@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 250px;
+    padding: 10px;
+}
+h2 {
+    color: #333;
+}
+p {
+    font-size: 14px;
+    font-weight: bold;
+}
+ul {
+    text-align: left;
+    font-size: 12px;
+}
