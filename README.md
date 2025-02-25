@@ -1,0 +1,1 @@
+# chrome-privacy-checker
